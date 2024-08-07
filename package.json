@@ -19,4 +19,7 @@
     "url": "https://github.com/Yu5656/test00/issues"
   },
   "homepage": "https://github.com/Yu5656/test00#readme"
+  "publishConnfig": {
+    "@Yu5656:registry": "https://npm.pkg.github.com"
+  }
 }
